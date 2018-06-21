@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"compress/flate"
 	"fmt"
-	"github.com/juju/zip"
+	"github.com/easyrasta/zip"
 	"io"
 	"log"
 	"os"
